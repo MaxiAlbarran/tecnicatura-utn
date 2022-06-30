@@ -1,6 +1,7 @@
 # Lenguaje C
 
 Esta carpeta contiene programas escritos en lenguaje C.
+Cada carpeta incluye cada consigna con su respectivo programa de resolucion.
 
 Como se puede observar en ciertos programas se realiza un manejo de vectores, matrices y estructuras.
 
